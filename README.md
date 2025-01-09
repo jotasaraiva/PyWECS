@@ -1,3 +1,3 @@
 # Wavelet Energies Correlation Screening (WECS)
 
-This project has a Python implementation of the WECS methodology for Change Detection in time series of SAR images as mentioned in the article [Wavelet Spatio-Temporal Change Detection on Multitemporal SAR Images](https://ieeexplore.ieee.org/document/10105998). The code is inspired by the [original implementation](https://github.com/rodneyfv/WECS/tree/main) for MATLAB. 
+This project has a Python implementation of the WECS methodology for Change Detection in time series of SAR images as mentioned in the article [Wavelet Spatio-Temporal Change Detection on Multitemporal SAR Images](https://ieeexplore.ieee.org/document/10105998). The code is inspired by the [original MATLAB implementation](https://github.com/rodneyfv/WECS/tree/main). 
