@@ -1,1 +1,4 @@
 __pycache__/
+.spyproject/
+.ipynb_checkpoints/
+.virtual_documents/

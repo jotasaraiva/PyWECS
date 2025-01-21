@@ -1,7 +1,7 @@
 import numpy as np
 from numba import njit
 import pywt
-from skimage.filters import threshold_otsu, threshold_li
+from skimage.filters import threshold_otsu
 
 @njit
 def ECS(x, smooth_x=None):
