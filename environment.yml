@@ -5,8 +5,9 @@ channels:
 dependencies:
   - python=3.9
   - numpy
-  - numba
-  - pywt
+  - pywavelets
   - scikit-image
+  - scikit-learn
   - rasterio
   - matplotlib
+prefix: opt/conda
